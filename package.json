@@ -1,0 +1,39 @@
+{
+    "name": "vscode-openshift-extension-pack",
+    "version": "0.0.1",
+    "publisher": "mohitsuman",
+    "displayName": "Openshift Extension Pack",
+    "description": "The ultimate collection of extensions for working with Openshift resources in VS Code!",
+    "license": "SEE LICENSE IN LICENSE",
+    "galleryBanner": {
+        "color": "#0072c6",
+        "theme": "dark"
+    },
+    "icon": "openshift.png",
+    "repository": {
+        "url": "https://github.com/mohitsuman/vscode-openshift-extension-pack"
+    },
+    "homepage": "https://github.com/mohitsuman/vscode-openshift-extension-pack",
+    "bugs": {
+        "url": "https://github.com/mohitsuman/vscode-openshift-extension-pack/issues"
+    },
+    "keywords": [
+        "openshift",
+        "kubernetes",
+        "redhat",
+        "explorer",
+        "container"
+    ],
+    "categories": [
+        "Extension Packs"
+    ],
+    "engines": {
+        "vscode": "^1.14.0"
+    },
+    "extensionDependencies": [
+        "mohitsuman.adapters-vscode",
+        "Azure.vscode-kubernetes-tools",
+        "formulahendry.docker-explorer",
+        "PeterJausovec.vscode-docker"
+    ]
+}

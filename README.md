@@ -29,7 +29,7 @@ You can uninstall all the extensions by uninstalling this extension pack.
 
 ## Contributing
 
-Got a suggestion for the Azure Extension Pack? Submit a new issue and a PR with an updated package.json and README.md and we'll take a look! 
+Got a suggestion for the OpenShift Extension Pack? Submit a new issue and a PR with an updated package.json and README.md and we'll take a look! 
 
 ## License
 

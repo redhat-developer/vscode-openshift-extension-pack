@@ -2,8 +2,8 @@
     "name": "vscode-openshift-extension-pack",
     "version": "0.0.1",
     "publisher": "mohitsuman",
-    "displayName": "Openshift Extension Pack",
-    "description": "The ultimate collection of extensions for working with Openshift resources in VS Code!",
+    "displayName": "OpenShift Extension Pack",
+    "description": "The ultimate collection of extensions for working with OpenShift resources in VS Code.",
     "license": "SEE LICENSE IN LICENSE",
     "galleryBanner": {
         "color": "#0072c6",

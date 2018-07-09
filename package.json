@@ -32,8 +32,7 @@
     },
     "extensionDependencies": [
         "mohitsuman.adapters-vscode",
-        "Azure.vscode-kubernetes-tools",
-        "formulahendry.docker-explorer",
-        "PeterJausovec.vscode-docker"
+        "ms-kubernetes-tools.vscode-kubernetes-tools",
+        "formulahendry.vscode-docker-extension-pack"
     ]
 }

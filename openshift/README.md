@@ -7,7 +7,7 @@ The OpenShift Extension Pack is the ultimate collection of extensions for workin
 
 ## Server Adapters
 
-* The [Server Adapter Extension](https://github.com/mohitsuman/adapters-vscode) lets you connect Visual Studio Code to your server adapters and run, deploy apps !!
+* The [Server Adapter Extension](https://github.com/redhat-developer/vscode-adapters) lets you connect Visual Studio Code to your server adapters and run, deploy apps !!
 
 ## Kubernetes Tools
 

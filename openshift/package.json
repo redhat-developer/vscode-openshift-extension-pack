@@ -15,7 +15,7 @@
     "repository": {
         "url": "https://github.com/mohitsuman/vscode-openshift-extension-pack"
     },
-    "homepage": "https://github.com/mohitsuman/vscode-openshift-extension-pack",
+    "homepage": "https://github.com/mohitsuman/vscode-openshift-extension-pack/tree/master/openshift",
     "bugs": {
         "url": "https://github.com/mohitsuman/vscode-openshift-extension-pack/issues"
     },

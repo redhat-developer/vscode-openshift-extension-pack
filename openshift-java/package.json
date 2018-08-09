@@ -12,11 +12,11 @@
         "theme": "dark"
     },
     "repository": {
-        "url": "https://github.com/mohitsuman/vscode-openshift-java-pack"
+        "url": "https://github.com/mohitsuman/vscode-openshift-extension-pack"
     },
-    "homepage": "https://github.com/mohitsuman/vscode-openshift-java-pack",
+    "homepage": "https://github.com/mohitsuman/vscode-openshift-extension-pack/tree/master/openshift-java",
     "bugs": {
-        "url": "https://github.com/mohitsuman/vscode-openshift-java-pack/issues"
+        "url": "https://github.com/mohitsuman/vscode-openshift-extension-pack/issues"
     },
     "keywords": [
         "openshift",
@@ -32,7 +32,7 @@
         "vscode": "^1.23.0"
     },
     "extensionDependencies": [
-        "mohitsuman.vscode-openshift-extension-pack",
-        "vscjava.vscode-java-pack"
+        "redhat.vscode-openshift-extension-pack",
+        "Pivotal.vscode-boot-dev-pack"
     ]
 }

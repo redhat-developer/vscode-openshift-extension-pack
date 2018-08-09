@@ -28,15 +28,15 @@ OpenShift extension pack for Java developers.
 
 - [Language Support for Java(TM) by Red Hat ](https://marketplace.visualstudio.com/items?itemName=redhat.java) - Provides Java ™ language support via Eclipse ™ JDT Language Server, which utilizes Eclipse ™ JDT, M2Eclipse and Buildship.
 
-![Language Support for Java(TM) by Red Hat](https://raw.githubusercontent.com/mohitsuman/vscode-openshift-extension-pack/tree/master/openshift-java/vscode-java.gif)
+![Language Support for Java(TM) by Red Hat](https://raw.githubusercontent.com/mohitsuman/vscode-openshift-extension-pack/master/openshift-java/vscode-java.gif)
 
 - [Debugger for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug) - Provide debug support for Java.
 
-![Debugger for Java](https://raw.githubusercontent.com/mohitsuman/vscode-openshift-extension-pack/tree/master/openshift-java/vscode-java-debug.gif)
+![Debugger for Java](https://raw.githubusercontent.com/mohitsuman/vscode-openshift-extension-pack/master/openshift-java/vscode-java-debug.gif)
 
 - [Maven Project Explorer](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-maven) - Manage maven projects, execute goals, generate projects from archetypes.
 
-![Maven Project Explorer](https://raw.githubusercontent.com/mohitsuman/vscode-openshift-extension-pack/tree/master/openshift-java/vscode-maven.gif)
+![Maven Project Explorer](https://raw.githubusercontent.com/mohitsuman/vscode-openshift-extension-pack/master/openshift-java/vscode-maven.gif)
 
 
 ## Installation
@@ -51,4 +51,3 @@ Got a suggestion for the OpenShift Java Extension Pack? Submit a new issue and a
 
 ## License
 This extension is licensed under [MIT License](https://github.com/mohitsuman/vscode-openshift-java-pack/blob/master/LICENSE).
-

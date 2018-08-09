@@ -33,6 +33,9 @@
     },
     "extensionDependencies": [
         "redhat.vscode-openshift-extension-pack",
+        "redhat.java",
+        "vscjava.vscode-java-debug",
+        "vscjava.vscode-maven",
         "Pivotal.vscode-boot-dev-pack"
     ]
 }

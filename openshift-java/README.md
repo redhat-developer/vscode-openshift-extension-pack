@@ -1,5 +1,5 @@
 
-# OpenShift Java Extension Pack
+# OpenShift Extension Pack for Java
 
 OpenShift extension pack for Java developers.
 

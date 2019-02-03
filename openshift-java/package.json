@@ -4,8 +4,8 @@
     "publisher": "redhat",
     "author": "Red Hat",
     "preview": true,
-    "displayName": "OpenShift Java Extension Pack",
-    "description": "OpenShift extension pack for Java developers.",
+    "displayName": "OpenShift Extension Pack for Java",
+    "description": "OpenShift Extension Pack for Java developers.",
     "license": "SEE LICENSE IN LICENSE",
     "galleryBanner": {
         "color": "#0072c6",

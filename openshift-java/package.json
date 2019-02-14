@@ -1,12 +1,13 @@
 {
     "name": "vscode-openshift-java-pack",
     "version": "0.0.1",
+    "license": "MIT",
     "publisher": "redhat",
     "author": "Red Hat",
     "preview": true,
     "displayName": "OpenShift Extension Pack for Java",
     "description": "OpenShift Extension Pack for Java developers.",
-    "license": "SEE LICENSE IN LICENSE",
+    "icon": "images/openshift_java_ext_pack.png",
     "galleryBanner": {
         "color": "#0072c6",
         "theme": "dark"
@@ -23,7 +24,9 @@
         "kubernetes",
         "redhat",
         "java",
-        "containers"
+        "containers",
+        "maven",
+        "debugger"
     ],
     "categories": [
         "Extension Packs"
@@ -32,10 +35,12 @@
         "vscode": "^1.23.0"
     },
     "extensionDependencies": [
-        "redhat.vscode-openshift-extension-pack",
+        "redhat.vscode-openshift-connector",
+        "redhat.vscode-server-connector",
+        "redhat.project-initializer",
+        "ms-kubernetes-tools.vscode-kubernetes-tools",
         "redhat.java",
         "vscjava.vscode-java-debug",
-        "vscjava.vscode-maven",
-        "Pivotal.vscode-boot-dev-pack"
+        "vscjava.vscode-maven"
     ]
 }

@@ -1,5 +1,5 @@
 
-# Microsoft Visual Studio Code OpenShift Extension Packs
+# OpenShift Extension Packs by Red Hat
 
 The OpenShift Extension Pack is the ultimate collection of extensions for working with OpenShift resources in VS Code.
 

@@ -7,22 +7,21 @@ OpenShift extension pack for Java developers.
 
 # OpenShift Extensions Included
 
-## Server Adapters
+## OpenShift Connector
 
-* The [Server Adapter Extension](https://github.com/redhat-developer/vscode-adapters) lets you connect Visual Studio Code to your server adapters and run, deploy apps !!
+* The [OpenShift Extension](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-openshift-connector) lets you interact with Red Hat OpenShift and build and deploy your code to your cluster immediately after you save you changes. This benefits from instant feedback and can thus validate the changes in real-time.
+
+## Server Connector
+
+* The [Server Connector Extension](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-server-connector) lets you connect Visual Studio Code to your server adapters(WildFly, EAP, minishift) and run, deploy apps !!
+
+## Project Initializer by Red Hat
+
+* The [Project Initializer](https://marketplace.visualstudio.com/items?itemName=redhat.project-initializer) extension based on Red Hat Launcher to generate quickstart projects using Visual Studio Code.
 
 ## Kubernetes Tools
 
 * The [Kubernetes Tools](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) extension for interacting with Kubernetes clusters.
-
-## Docker Explorer
-
-* The [Docker Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.docker-explorer) lets to manage Docker Containers, Docker Images, Docker Hub.
-
-## Docker
-
-* The [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) extension makes it easy to build, manage and deploy containerized applications.
-
 
 # Java Extensions Included
 
@@ -47,7 +46,7 @@ You can uninstall all the extensions by uninstalling this extension pack.
 
 ## Contributing
 
-Got a suggestion for the OpenShift Java Extension Pack? Submit a new issue and a PR with an updated package.json and README.md and we'll take a look! 
+Got a suggestion for the OpenShift Extension Pack for Java? Submit a new issue and a PR with an updated package.json and README.md and we'll take a look! 
 
 ## License
 This extension is licensed under [MIT License](https://github.com/mohitsuman/vscode-openshift-java-pack/blob/master/LICENSE).

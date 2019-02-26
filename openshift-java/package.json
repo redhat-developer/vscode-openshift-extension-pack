@@ -6,7 +6,7 @@
     "author": "Red Hat",
     "preview": true,
     "displayName": "OpenShift Extension Pack for Java",
-    "description": "OpenShift Extension Pack for Java developers.",
+    "description": "Collection of extensions curated for Java developers and deploying on OpenShift.",
     "icon": "images/openshift_java_ext_pack.png",
     "galleryBanner": {
         "color": "#0072c6",
@@ -32,9 +32,9 @@
         "Extension Packs"
     ],
     "engines": {
-        "vscode": "^1.23.0"
+        "vscode": "^1.28.0"
     },
-    "extensionDependencies": [
+    "extensionPack": [
         "redhat.vscode-openshift-connector",
         "redhat.vscode-server-connector",
         "redhat.project-initializer",

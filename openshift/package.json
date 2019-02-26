@@ -1,6 +1,6 @@
 {
     "name": "vscode-openshift-extension-pack",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "redhat",
     "author": "Red Hat",
     "preview": true,
@@ -30,7 +30,7 @@
         "Extension Packs"
     ],
     "engines": {
-        "vscode": "^1.23.0"
+        "vscode": "^1.28.0"
     },
     "extensionPack": [
         "redhat.vscode-openshift-connector",

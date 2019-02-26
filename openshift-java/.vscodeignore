@@ -1,0 +1,15 @@
+.vscode/**
+.vscode-test/**
+images/vscode-java-debug.gif
+images/vscode-java.gif
+images/vscode-java-maven.gif
+out/test/**
+out/**/*.map
+src/**
+.gitignore
+tsconfig.json
+tslint.json
+*.vsix
+Jenkinsfile
+.gitattributes
+.travis.yml

@@ -13,11 +13,11 @@
     },
     "icon": "openshift.png",
     "repository": {
-        "url": "https://github.com/mohitsuman/vscode-openshift-extension-pack"
+        "url": "https://github.com/redhat-developer/vscode-openshift-extension-pack"
     },
-    "homepage": "https://github.com/mohitsuman/vscode-openshift-extension-pack/tree/master/openshift",
+    "homepage": "https://github.com/redhat-developer/vscode-openshift-extension-pack/tree/master/openshift",
     "bugs": {
-        "url": "https://github.com/mohitsuman/vscode-openshift-extension-pack/issues"
+        "url": "https://github.com/redhat-developer/vscode-openshift-extension-pack/issues"
     },
     "keywords": [
         "openshift",
@@ -33,8 +33,9 @@
         "vscode": "^1.23.0"
     },
     "extensionDependencies": [
-        "redhat.vscode-adapters",
-        "ms-kubernetes-tools.vscode-kubernetes-tools",
-        "formulahendry.vscode-docker-extension-pack"
+        "redhat.vscode-openshift-connector",
+        "redhat.vscode-server-connector",
+        "redhat.project-initializer",
+        "ms-kubernetes-tools.vscode-kubernetes-tools"
     ]
 }

@@ -32,7 +32,7 @@
     "engines": {
         "vscode": "^1.23.0"
     },
-    "extensionDependencies": [
+    "extensionPack": [
         "redhat.vscode-openshift-connector",
         "redhat.vscode-server-connector",
         "redhat.project-initializer",

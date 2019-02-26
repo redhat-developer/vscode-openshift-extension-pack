@@ -7,19 +7,19 @@ The OpenShift Extension Pack is the ultimate collection of extensions for workin
 
 # OpenShift Extensions Included
 
-## OpenShift Connector
+## 📦 OpenShift Connector
 
 * The [OpenShift Extension](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-openshift-connector) lets you interact with Red Hat OpenShift and build and deploy your code to your cluster immediately after you save you changes. This benefits from instant feedback and can thus validate the changes in real-time.
 
-## Server Connector
+## 📦 Server Connector
 
 * The [Server Connector Extension](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-server-connector) lets you connect Visual Studio Code to your server adapters(WildFly, EAP, minishift) and run, deploy apps !!
 
-## Project Initializer by Red Hat
+## 📦 Project Initializer by Red Hat
 
 * The [Project Initializer](https://marketplace.visualstudio.com/items?itemName=redhat.project-initializer) extension based on Red Hat Launcher to generate quickstart projects using Visual Studio Code.
 
-## Kubernetes Tools
+## 📦 Kubernetes Tools
 
 * The [Kubernetes Tools](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools) extension for interacting with Kubernetes clusters.
 
@@ -32,7 +32,7 @@ You can uninstall all the extensions by uninstalling this extension pack.
 
 ## Contributing
 
-Got a suggestion for the OpenShift Extension Pack? Submit a new issue and a PR with an updated package.json and README.md and we'll take a look! 
+Got a suggestion for the OpenShift Extension Pack? 🙋Submit a new issue and a PR with an updated package.json and README.md and we'll take a look! 
 
 ## License
 

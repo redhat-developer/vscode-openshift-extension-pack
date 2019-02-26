@@ -2,7 +2,7 @@
 .vscode-test/**
 images/vscode-java-debug.gif
 images/vscode-java.gif
-images/vscode-java-maven.gif
+images/vscode-maven.gif
 out/test/**
 out/**/*.map
 src/**
